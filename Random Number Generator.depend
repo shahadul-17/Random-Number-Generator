@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503951502 source:c:\users\shahadul alam\documents\codeblocks projects\random number generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
